@@ -1,4 +1,5 @@
 # graphql
 > do `npm install`
-> and then do npm run devStart
+> 
+> and then do `npm run devStart`
 > 
